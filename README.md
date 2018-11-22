@@ -1,21 +1,72 @@
-# ShouJian
+## 来去兼职隐私策略
 
-## Privacy policy
+来去兼职尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务来去兼职会按照本隐私权政策的规定使用和披露您的个人信息。来去兼职将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下来去兼职不会将这些信息对外披露或向第三方提供来去兼职会不时更新本隐私权政策。 您在同来去兼职服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属来去兼职服务使用协议不可分割的一部分。
 
-Users agree that personal privacy information refers to the information that can make personal identification to users or involves personal communication, including the following information: mailbox. Non-personal privacy information refers to some general information that is clearly and objectively reflected outside the scope of the basic record information and all other personal privacy information on the server side of the company and the above privacy information that the user agrees to disclose.
+1. 适用范围
 
-Protect the privacy of users (especially minors) is ShouJian a basic policy, ShouJian will be carried out on the information provided by the user, strict management and protection and using corresponding techniques, to prevent the user's personal data lost, stolen or been tampered with, guarantee the public or to a third party provides a single user registration information and users in the use of web services are stored in ShouJian non-public content, but except for the following situations: 2.1 obtain clear authorization from the user in advance; 2.2 according to relevant laws and regulations; 2.3 according to the requirements of relevant government authorities; 2.4 in order to protect the interests of the public; 2.5 to protect ShouJian's legal rights and interests.
+(a) 在您注来去兼职帐号时，您根来去兼职要求提供的个人注册信息；
 
-If you have any questions about our privacy policy at any time, please contact us via email privacy@zhangyue.com, and we will make every effort to improve this issue within a reasonable and appropriate range.
+(b) 在您使来去兼职网络服务，或访来去兼职平台网页时来去兼职自动接收并记录的您的浏览器和计算机上的信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据；
 
-Intellectual property rights
+(c)来去兼职通过合法途径从商业伙伴处取得的用户个人数据。
 
-Users shall not reverse engineer, decompile or disassemble the software without the permission of ShouJian.
+您了解并同意，以下信息不适用本隐私权政策：
 
-ShouJian to provide network services contained in any text, images, graphics, audio and/or video information copyright, trademark and/or other property rights of the protection of the law, without the consent of the holder of the relevant, the above information shall not directly or indirectly in any media published, broadcast, broadcast or publish intentions and rewrite or issue, or be used for any other commercial purpose. All such information or any part of the information may be kept in the user terminal only for private and non-commercial purposes. ShouJian shall not indemnify the user or any third party in any form for any delay, inaccuracy, errors, omissions, omissions, or consequential arising out of or in the transmission or delivery of all or part of the said information.
+(a) 您在使来去兼职平台提供的搜索服务时输入的关键字信息；
 
-All contents of ShouJian are only representative of the author's own position and views, which are irrelevant to ShouJian, and the author shall bear all legal responsibilities.
+(b)来去兼职收集到的您来去兼职发布的有关信息数据，包括但不限于参与活动、成交信息及评价详情；
 
-Contact me
+(c) 违反法律规定或违来去兼职规则行为来去兼职已对您采取的措施。
 
-If you have any questions, please feel free to contact me. Email :johnde110@163.com
+2. 信息使用
+
+(a来去兼职不会向任何无关第三方提供、出售、出租、分享或交易您的个人信息，除非事先得到您的许可，或该第三方来去兼职（来去兼职关联公司）单独或共同为您提供服务，且在该服务结束后，其将被禁止访问包括其以前能够访问的所有这些资料。
+
+(b)来去兼职亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任来去兼职平台用户如从事上述活动，一经发现来去兼职有权立即终止与该用户的服务协议。
+
+(c) 为服务用户的目的来去兼职可能通过使用您的个人信息，向您提供您感兴趣的信息，包括但不限于向您发出产品和服务信息，或者来去兼职合作伙伴共享信息以便他们向您发送有关其产品和服务的信息（后者需要您的事先同意）。
+
+3. 信息披露
+
+在如下情况下来去兼职将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息：
+
+(a) 经您事先同意，向第三方披露；
+
+(b)为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；
+
+(c) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
+
+(d) 如您出现违反中国有关法律、法规或来去兼职服务协议或相关规则的情况，需要向第三方披露；
+
+(e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；
+
+(f) 来去兼职平台上创建的某一交易中，如交易任何一方履行或部分履行了交易义务并提出信息披露请求的来去兼职有权决定向该用户提供其交易对方的联络方式等必要信息，以促成交易的完成或纠纷的解决。
+
+(g) 其来去兼职根据法律、法规或者网站政策认为合适的披露。
+
+4. 信息存储和交换
+来去兼职收集的有关您的信息和资料将保存来去兼职及（或）其关联公司的服务器上，这些信息和资料可能传送至您所在国家、地区来去兼职收集信息和资料所在地的境外并在境外被访问、存储和展示。
+
+5. Cookie的使用
+
+(a) 在您未拒绝接受cookies的情况下来去兼职会在您的计算机上设定或取用cookies ，以便您能登录或使用依赖于cookies来去兼职平台服务或功能来去兼职使用cookies可为您提供更加周到的个性化服务，包括推广服务。
+
+(b) 您有权选择接受或拒绝接受cookies。您可以通过修改浏览器设置的方式拒绝接受cookies。但如果您选择拒绝接受cookies，则您可能无法登录或使用依赖于cookies来去兼职网络服务或功能。
+
+(c) 通来去兼职所设cookies所取得的有关信息，将适用本政策。
+
+6. 信息安全
+
+(a)来去兼职帐号均有安全保护功能，请妥善保管您的用户名及密码信息来去兼职将通过对用户密码进行加密等安全措施确保您的信息不丢失，不被滥用和变造。尽管有前述安全措施，但同时也请您注意在信息网络上不存在“完善的安全措施”。
+
+
+7.本隐私政策的更改
+
+(a)如果决定更改隐私政策，我们会在本政策中、本公司网站中以及我们认为适当的位置发布这些更改，以便您了解我们如何收集、使用您的个人信息，哪些人可以访问这些信息，以及在什么情况下我们会透露这些信息。
+
+(b)本公司保留随时修改本政策的权利，因此请经常查看。如对本政策作出重大更改，本公司会通过网站通知的形式告知。
+
+方披露自己的个人信息，如联络方式或者邮政地址。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，尤其来去兼职用户名及密码发生泄露，请您立即联来去兼职客服，以来去兼职采取相应措施。对于个人信息的删除与保留您都可以联系客服进行更改。
+
+任何疑问都可以发送我们的邮箱咨询：
+nongzhe19994f@163.com
